@@ -1,0 +1,5 @@
+{
+  "name": "FlexPlayer Premium",
+  "description": "A high-performance, feature-rich media player component with an editorial design and immersive ambient lighting.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "player",
+  "version": "4.0.2",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "exit 0",
+    "lint": "node --check server.js routes/*.js components/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@upstash/redis": "^1.38.0",
+    "@vercel/kv": "^3.0.0",
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2",
+    "nanoid": "^3.3.4",
+    "stripe": "^14.1.1"
+  }
+}
