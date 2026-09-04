@@ -2,7 +2,6 @@
 
 [![Version](https://img.shields.io/badge/version-4.0.2-blue.svg)](https://github.com/yourusername/flexplayer)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/flexplayer)
 
 FlexPlayer Studio is a highly customizable, production-grade, full-stack video player solution. Designed for high-performance HLS streaming, stunning visuals (ambient lighting, responsive layouts), and advanced developer controls, it allows you to generate embed codes and customize the player in real-time.
 
